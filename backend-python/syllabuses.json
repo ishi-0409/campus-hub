@@ -1,0 +1,92 @@
+[
+  {
+    "id": "CS101",
+    "university": "A大学",
+    "title": "プログラミング基礎 (Python)",
+    "instructor": "山田 太郎",
+    "term": "前期",
+    "day_period": "水曜3限",
+    "credits": 2,
+    "category": "専門基礎",
+    "summary": "Pythonを用いたプログラミングの基礎概念（変数、条件分岐、繰り返し、関数）を学びます。プログラミング完全未経験者を対象としており、PCの基本操作から丁寧に解説します。",
+    "grading": {
+      "exam": 0,
+      "report": 70,
+      "attendance": 30
+    },
+    "tags": ["未経験者歓迎", "レポート重視", "プログラミング", "テストなし", "単位取得しやすい"],
+    "prerequisites": "なし"
+  },
+  {
+    "id": "MKT201",
+    "university": "A大学",
+    "title": "現代マーケティング論",
+    "instructor": "佐藤 美咲",
+    "term": "前期",
+    "day_period": "月曜2限",
+    "credits": 2,
+    "category": "教養科目",
+    "summary": "SNS時代における消費者行動分析やブランド戦略、実在する企業のマーケティング事例研究を行います。グループワークと成果発表プレゼンがメインの参加型授業です。",
+    "grading": {
+      "exam": 30,
+      "report": 30,
+      "group_work": 40
+    },
+    "tags": ["グループワークあり", "プレゼンあり", "実践的", "ビジネス"],
+    "prerequisites": "なし"
+  },
+  {
+    "id": "DS301",
+    "university": "B大学",
+    "title": "データサイエンス応用",
+    "instructor": "鈴木 健一",
+    "term": "後期",
+    "day_period": "木曜4限",
+    "credits": 2,
+    "category": "専門応用",
+    "summary": "機械学習・ディープラーニングの基礎アルゴリズムの理解と、Pandas/Scikit-learnを使った実データ分析を行ないます。最終回に分析レポートの提出が必要です。",
+    "grading": {
+      "exam": 40,
+      "report": 60,
+      "attendance": 0
+    },
+    "tags": ["AI", "機械学習", "データ分析", "発展レベル", "Python経験者向け"],
+    "prerequisites": "プログラミング基礎または同等の知識"
+  },
+  {
+    "id": "PSY102",
+    "university": "B大学",
+    "title": "心理学入門",
+    "instructor": "高橋 恵子",
+    "term": "前期",
+    "day_period": "金曜1限",
+    "credits": 2,
+    "category": "教養科目",
+    "summary": "人間の認知、感情、行動のメカニズムを日常の出来事に即して解説します。毎回の授業後に小レポート（100字程度）を提出してもらう出席＆平常点重視の講義です。",
+    "grading": {
+      "exam": 0,
+      "report": 50,
+      "attendance": 50
+    },
+    "tags": ["テストなし", "小レポート重視", "一般教養", "単位取得しやすい", "朝イチ"],
+    "prerequisites": "なし"
+  },
+  {
+    "id": "ENG205",
+    "university": "C大学",
+    "title": "ビジネス英語プレゼンテーション",
+    "instructor": "John Smith",
+    "term": "後期",
+    "day_period": "火曜3限",
+    "credits": 2,
+    "category": "語学系",
+    "summary": "英語での説得力あるプレゼンテーション技法を実践形式で学びます。毎回のペアワークと、中間・期末での英語プレゼン発表で評価を行います。",
+    "grading": {
+      "exam": 0,
+      "presentation": 70,
+      "attendance": 30
+    },
+    "tags": ["少人数", "スピーキング", "英語", "実践型", "テストなし"],
+    "prerequisites": "英検2級またはTOEIC 550相当"
+  }
+]
